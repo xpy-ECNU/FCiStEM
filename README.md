@@ -19,6 +19,7 @@ You can install the development version of MIRT4FC like so:
 install.packages("devtools")
 library("devtools")
 install_github("xpy-ECNU/MIRT4FC")
+1
 library(MIRT4FC)
 ```
 ## Example
